@@ -1,0 +1,57 @@
+body {
+    background-color: lightblue;
+}
+
+header {
+    background-color:white;
+    width: 100%; 
+    text-align: right;
+    border-bottom: outset 3px black;
+}
+
+button.nav {
+    background-color: lightblue;
+    color:white;
+    border: none;
+    margin:40px 10px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+    
+form {
+    justify-self: center;
+    border: 3px groove black;
+    width: 500px;
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+    margin-top: 130px;
+    
+    
+}
+
+input {
+    Padding: 10px;
+    width: 300px;
+
+}
+
+.main-content {
+    display: block;
+    text-align: center;
+}
+
+.submit {
+    background-color: lightblue;
+    color:white;
+    font-size: 20px;
+    border: 1px solid black;
+    width: 325px;
+    margin: 10px 0px 5px 0px;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 88px;
+}
